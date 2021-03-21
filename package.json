@@ -13,7 +13,7 @@
     "vue-router": "^3.0.3"
   },
   "devDependencies": {
-    "@fortawesome/fontawesome-free": "^5.10.0",
+    "@fortawesome/fontawesome-free": "^5.15.2",
     "@fortawesome/fontawesome-svg-core": "^1.2.20",
     "@fortawesome/free-solid-svg-icons": "^5.10.0",
     "@fortawesome/vue-fontawesome": "^0.1.6",
